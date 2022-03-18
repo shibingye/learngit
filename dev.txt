@@ -1,2 +1,3 @@
 add branch dev
 merge branch message
+merge master and dev by --no-ff
