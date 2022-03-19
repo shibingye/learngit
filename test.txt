@@ -7,3 +7,4 @@ fix up problem!
 fix up problem success!
 add test.txt
 add something
+test pull
