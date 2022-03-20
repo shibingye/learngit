@@ -8,3 +8,5 @@ fix up problem success!
 add test.txt
 test rebase
 resolver error
+add something
+test pull
