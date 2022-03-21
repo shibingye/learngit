@@ -12,4 +12,4 @@ add something
 test pull
 update test.txt
 this is branch master
-iit is a palle
+ok
